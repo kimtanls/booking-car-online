@@ -4,7 +4,6 @@ import android.app.Application;
 
 import com.example.booking_car_online.model.ChuyenXe;
 import com.example.booking_car_online.model.DAO.ChuyenXeDAO;
-import com.example.booking_car_online.model.DAO.LoaiXeDAO;
 import com.example.booking_car_online.model.DAO.QuyenDao;
 import com.example.booking_car_online.model.DAO.ThanhVienDAO;
 import com.example.booking_car_online.model.DAO.TrangThaiDAO;

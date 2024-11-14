@@ -22,7 +22,6 @@ import com.example.booking_car_online.config.FunctionPublic;
 import com.example.booking_car_online.model.ChuyenXe;
 import com.example.booking_car_online.model.DAO.DanhGiaDAO;
 import com.example.booking_car_online.model.DAO.DatVeDAO;
-import com.example.booking_car_online.model.DAO.LoaiXeDAO;
 import com.example.booking_car_online.view.DatVeActivity;
 import com.example.booking_car_online.view.DetailChuyenXeActivity;
 

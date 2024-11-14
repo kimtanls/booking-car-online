@@ -1,11 +1,7 @@
 package com.example.booking_car_online.viewmodel;
 
-import android.app.AlertDialog;
-import android.app.DatePickerDialog;
 import android.content.Context;
-import android.content.DialogInterface;
 import android.os.Handler;
-import android.widget.DatePicker;
 import android.widget.Toast;
 
 import androidx.databinding.BaseObservable;
@@ -17,9 +13,7 @@ import com.example.booking_car_online.config.DataLocalManager;
 import com.example.booking_car_online.config.FunctionPublic;
 import com.example.booking_car_online.config.VariableGlobal;
 import com.example.booking_car_online.model.ChuyenXe;
-import com.example.booking_car_online.model.DAO.ChuyenXeDAO;
 import com.example.booking_car_online.model.DAO.DatVeDAO;
-import com.example.booking_car_online.model.DAO.LoaiXeDAO;
 import com.example.booking_car_online.model.DAO.ThanhVienDAO;
 import com.example.booking_car_online.model.DatVe;
 import com.example.booking_car_online.model.ThanhVien;
