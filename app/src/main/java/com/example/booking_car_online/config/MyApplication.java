@@ -37,19 +37,19 @@ public class booking_car_online extends Application {
             Quyen q3 = new Quyen("ROLE_CUSTOMER");
 
             quyenDao.insert(q1,q2,q3);
-            ThanhVien t1 = new ThanhVien("thaigiavuong", "giavuong.1205@gmail.com");
+            ThanhVien t1 = new ThanhVien("tandzzz", "tandzzz@gmail.com");
             t1.setMatKhau("admin");
             t1.setSoDienThoai("0912309812");
             t1.setIdQuyenThanhVien(1);
             t1.setAvatar("https://f9-zpcloud.zdn.vn/9192093310976170948/a4fd78baa13c7062292d.jpg");
 
-            ThanhVien t2 = new ThanhVien("dinhtanhuy", "dinhtanhuy@gmail.com");
+            ThanhVien t2 = new ThanhVien("nam", "nam@gmail.com");
             t2.setMatKhau("admin");
             t2.setSoDienThoai("12345678");
             t2.setIdQuyenThanhVien(1);
             t2.setAvatar("https://f9-zpcloud.zdn.vn/9192093310976170948/a4fd78baa13c7062292d.jpg");
 
-            ThanhVien t3 = new ThanhVien("dangtrungminh", "dangtrungminh@gmail.com");
+            ThanhVien t3 = new ThanhVien("kietdd", "kiet@gmail.com");
             t3.setMatKhau("admin");
             t3.setSoDienThoai("876543212");
             t3.setIdQuyenThanhVien(1);
