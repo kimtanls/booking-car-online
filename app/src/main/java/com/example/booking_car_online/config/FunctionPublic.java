@@ -2,9 +2,7 @@ package com.example.booking_car_online.config;
 
 import android.content.Context;
 import android.widget.ImageView;
-
 import com.bumptech.glide.Glide;
-
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 import java.text.ParseException;
