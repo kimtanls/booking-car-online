@@ -14,7 +14,7 @@ import com.example.booking_car_online.model.TrangThai;
 import com.google.firebase.FirebaseApp;
 
 
-public class booking_car_online extends Application {
+public class MyApplication extends Application {
 
     @Override
     public void onCreate() {
